@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Highly Technical Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinking Text Markup Language"
+    ],
+    "correct": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which tag is used to define an image in HTML?",
+    "options": [
+      "<img>",
+      "<src>",
+      "<image>",
+      "<picture>"
+    ],
+    "correct": "<img>"
+  },
+  {
+    "question": "What is the correct way to create a hyperlink in HTML?",
+    "options": [
+      "<link>",
+      "<a>",
+      "<h>",
+      "<url>"
+    ],
+    "correct": "<a>"
+  },
+  {
+    "question": "Which tag is used to create a line break in HTML?",
+    "options": [
+      "<br>",
+      "<lb>",
+      "<break>",
+      "<line>"
+    ],
+    "correct": "<br>"
+  },
+  {
+    "question": "Which element is used to define a list item in HTML?",
+    "options": [
+      "<li>",
+      "<ul>",
+      "<ol>",
+      "<list>"
+    ],
+    "correct": "<li>"
+  }
+]

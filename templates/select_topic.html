@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+  <h2>Select a Topic</h2>
+  <form method="post">
+    {% for topic in topics %}
+      <button type="submit" name="topic" value="{{ topic }}">{{ topic }}</button><br><br>
+    {% endfor %}
+  </form>
+{% endblock %}

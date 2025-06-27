@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which keyword is used to define a class in Java?",
+    "options": [
+      "class",
+      "void",
+      "new",
+      "public"
+    ],
+    "correct": "class"
+  },
+  {
+    "question": "What is the output of 10 % 3 in Java?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": "1"
+  },
+  {
+    "question": "Which data type is used to store decimal numbers in Java?",
+    "options": [
+      "int",
+      "double",
+      "char",
+      "boolean"
+    ],
+    "correct": "double"
+  },
+  {
+    "question": "What is the default value of a boolean variable in Java?",
+    "options": [
+      "true",
+      "false",
+      "null",
+      "0"
+    ],
+    "correct": "false"
+  },
+  {
+    "question": "Which collection class is synchronized in Java?",
+    "options": [
+      "ArrayList",
+      "HashMap",
+      "HashSet",
+      "Vector"
+    ],
+    "correct": "Vector"
+  }
+]

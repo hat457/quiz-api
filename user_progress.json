@@ -1,0 +1,12 @@
+{
+  "testuser": {
+    "correct_count": 0,
+    "total_correct": 0,
+    "characters": []
+  },
+  "jon": {
+    "correct_count": 2,
+    "characters": [],
+    "total_correct": 2
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does JS stand for in JavaScript?",
+    "options": [
+      "Java, Smalltalk, Script, C++",
+      "Java, JavaScript, JQuery, C++",
+      "JavaScript, Java, JScript, C++",
+      "JavaScript, Java, JQuery, C"
+    ],
+    "correct": "JavaScript, Java, JScript, C++"
+  },
+  {
+    "question": "Which of the following is not a data type in JavaScript?",
+    "options": [
+      "Number",
+      "String",
+      "Boolean",
+      "Array"
+    ],
+    "correct": "Array"
+  },
+  {
+    "question": "Which function is used to create a new JavaScript array?",
+    "options": [
+      "array()",
+      "new Array()",
+      "createArray()",
+      "constructArray()"
+    ],
+    "correct": "new Array()"
+  },
+  {
+    "question": "Which operator is used in JavaScript to concatenate two strings?",
+    "options": [
+      "+",
+      "&",
+      "*",
+      "^"
+    ],
+    "correct": "+"
+  },
+  {
+    "question": "Which of the following is a built-in JavaScript function that returns the current date and time?",
+    "options": [
+      "getDate()",
+      "now()",
+      "dateNow()",
+      "currentDate()"
+    ],
+    "correct": "now()"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Sequential Query Language",
+      "System Query Language"
+    ],
+    "correct": "Structured Query Language"
+  },
+  {
+    "question": "Which SQL keyword is used to select data from a database?",
+    "options": [
+      "SELECT",
+      "UPDATE",
+      "INSERT",
+      "DELETE"
+    ],
+    "correct": "SELECT"
+  },
+  {
+    "question": "Which SQL statement is used to add a new row of data to a table?",
+    "options": [
+      "SELECT",
+      "INSERT",
+      "UPDATE",
+      "DELETE"
+    ],
+    "correct": "INSERT"
+  },
+  {
+    "question": "Which SQL statement is used to update existing data in a table?",
+    "options": [
+      "SELECT",
+      "INSERT",
+      "UPDATE",
+      "DELETE"
+    ],
+    "correct": "UPDATE"
+  },
+  {
+    "question": "What SQL statement is used to delete rows from a table?",
+    "options": [
+      "SELECT",
+      "INSERT",
+      "UPDATE",
+      "DELETE"
+    ],
+    "correct": "DELETE"
+  }
+]

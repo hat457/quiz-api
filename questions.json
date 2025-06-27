@@ -1,0 +1,827 @@
+[
+  {
+    "question": "What does the 'len' function do in Python?",
+    "options": [
+      "Returns the length of an object",
+      "Creates a loop",
+      "Defines a list",
+      "Converts string to int"
+    ],
+    "correct": "Returns the length of an object",
+    "topic": "Python"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "define"
+    ],
+    "correct": "def",
+    "topic": "Python"
+  },
+  {
+    "question": "Which tag is used to define a hyperlink in HTML?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<url>"
+    ],
+    "correct": "<a>",
+    "topic": "HTML"
+  },
+  {
+    "question": "What symbol is used to comment a single line in JavaScript?",
+    "options": [
+      "#",
+      "//",
+      "/*",
+      "--"
+    ],
+    "correct": "//",
+    "topic": "JavaScript"
+  },
+  {
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "options": [
+      "var",
+      "int",
+      "let",
+      "define"
+    ],
+    "correct": "let",
+    "topic": "JavaScript"
+  },
+  {
+    "question": "Which of these is a valid comment in C++?",
+    "options": [
+      "// this is a comment",
+      "# this is a comment",
+      "<!-- comment -->",
+      "REM comment"
+    ],
+    "correct": "// this is a comment",
+    "topic": "C++"
+  },
+  {
+    "question": "What is the correct way to declare an integer variable in C++?",
+    "options": [
+      "int x = 5;",
+      "x = 5;",
+      "int x;",
+      "integer x = 5;"
+    ],
+    "correct": "int x = 5;",
+    "topic": "C++"
+  },
+  {
+    "question": "Which keyword is used to define a class in Java?",
+    "options": [
+      "class",
+      "define",
+      "struct",
+      "object"
+    ],
+    "correct": "class",
+    "topic": "Java"
+  },
+  {
+    "question": "Which of these is a valid main method signature in Java?",
+    "options": [
+      "public static void main(String[] args)",
+      "void main()",
+      "int main()",
+      "def main()"
+    ],
+    "correct": "public static void main(String[] args)",
+    "topic": "Java"
+  },
+  {
+    "question": "Which SQL statement is used to extract data from a database?",
+    "options": [
+      "GET",
+      "SELECT",
+      "FETCH",
+      "PULL"
+    ],
+    "correct": "SELECT",
+    "topic": "SQL"
+  },
+  {
+    "question": "What does the SQL 'WHERE' clause do?",
+    "options": [
+      "Sorts data",
+      "Limits result set",
+      "Filters records",
+      "Groups results"
+    ],
+    "correct": "Filters records",
+    "topic": "SQL"
+  },
+  {
+    "question": "What does the acronym 'PEP' stand for in the context of Python?",
+    "options": [
+      "Python Engineering Project",
+      "Python Enhancement Proposal",
+      "Python Execution Protocol",
+      "Python Engine Program"
+    ],
+    "correct": "Python Enhancement Proposal",
+    "topic": "python"
+  },
+  {
+    "question": "What does the built-in Python function `filter()` do?",
+    "options": [
+      "It sorts a list in ascending order",
+      "It removes all the false values from an iterable",
+      "It concatenates all elements in a list",
+      "It reverses a given list"
+    ],
+    "correct": "B) It removes all the false values from an iterable",
+    "topic": "python"
+  },
+  {
+    "question": "What does the acronym 'PYTHON' stand for in the context of the programming language?",
+    "options": [
+      "Pets You Have Officially Named",
+      "Python Network Programming Language",
+      "Pretty Huge Textshell Obfuscated Object Notation",
+      "Programming Years Thousands Of Notables"
+    ],
+    "correct": "Python Network Programming Language",
+    "topic": "python"
+  },
+  {
+    "question": "What does the 'print()' function in Python return?",
+    "options": [
+      "None",
+      "True",
+      "0",
+      "The printed output"
+    ],
+    "correct": "d) The printed output",
+    "topic": "python"
+  },
+  {
+    "question": "What keyword is used to create a class in Python?",
+    "options": [
+      "a) function",
+      "b) struct",
+      "c) class",
+      "d) def"
+    ],
+    "correct": "c) class",
+    "topic": "python"
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": [
+      "a) list",
+      "b) set",
+      "c) dictionary",
+      "d) tuple"
+    ],
+    "correct": "d) tuple",
+    "topic": "python"
+  },
+  {
+    "question": "What does the 'pass' statement do in Python?",
+    "options": [
+      "a) It throws an error",
+      "b) It does nothing",
+      "c) It skips iteration",
+      "d) It stops the program"
+    ],
+    "correct": "b) It does nothing",
+    "topic": "python"
+  },
+  {
+    "question": "How do you start a comment in Python?",
+    "options": [
+      "a) /*",
+      "b) <!--",
+      "c) //",
+      "d) #"
+    ],
+    "correct": "d) #",
+    "topic": "python"
+  },
+  {
+    "question": "What is the output type of the input() function?",
+    "options": [
+      "a) str",
+      "b) int",
+      "c) float",
+      "d) bool"
+    ],
+    "correct": "a) str",
+    "topic": "python"
+  },
+  {
+    "question": "Which keyword is used to handle exceptions?",
+    "options": [
+      "a) try",
+      "b) error",
+      "c) except",
+      "d) catch"
+    ],
+    "correct": "a) try",
+    "topic": "python"
+  },
+  {
+    "question": "Which built-in function returns the number of items in an object?",
+    "options": [
+      "a) sum()",
+      "b) size()",
+      "c) count()",
+      "d) len()"
+    ],
+    "correct": "d) len()",
+    "topic": "python"
+  },
+  {
+    "question": "What is the index of the first item in a Python list?",
+    "options": [
+      "a) 0",
+      "b) -1",
+      "c) 1",
+      "d) None"
+    ],
+    "correct": "a) 0",
+    "topic": "python"
+  },
+  {
+    "question": "Which Python structure allows key-value pairs?",
+    "options": [
+      "a) set",
+      "b) tuple",
+      "c) dictionary",
+      "d) list"
+    ],
+    "correct": "c) dictionary",
+    "topic": "python"
+  },
+  {
+    "question": "Which keyword is used to define a function?",
+    "options": [
+      "a) def",
+      "b) func",
+      "c) define",
+      "d) method"
+    ],
+    "correct": "a) def",
+    "topic": "python"
+  },
+  {
+    "question": "What keyword declares a variable in JavaScript?",
+    "options": [
+      "a) int",
+      "b) let",
+      "c) varies",
+      "d) define"
+    ],
+    "correct": "b) let",
+    "topic": "javascript"
+  },
+  {
+    "question": "What does '===' compare in JavaScript?",
+    "options": [
+      "a) Value and type",
+      "b) Nothing",
+      "c) Only type",
+      "d) Only value"
+    ],
+    "correct": "a) Value and type",
+    "topic": "javascript"
+  },
+  {
+    "question": "Which symbol is used for single-line comments?",
+    "options": [
+      "a) #",
+      "b) //",
+      "c) /* */",
+      "d) --"
+    ],
+    "correct": "b) //",
+    "topic": "javascript"
+  },
+  {
+    "question": "Which method converts a JSON string into an object?",
+    "options": [
+      "a) JSON.parse()",
+      "b) JSON.stringify()",
+      "c) objectify()",
+      "d) parseJSON()"
+    ],
+    "correct": "a) JSON.parse()",
+    "topic": "javascript"
+  },
+  {
+    "question": "What is the type of NaN?",
+    "options": [
+      "a) object",
+      "b) undefined",
+      "c) NaN",
+      "d) number"
+    ],
+    "correct": "d) number",
+    "topic": "javascript"
+  },
+  {
+    "question": "What does DOM stand for?",
+    "options": [
+      "a) Document Object Model",
+      "b) Digital Object Map",
+      "c) Document Object Mapper",
+      "d) Data Object Model"
+    ],
+    "correct": "a) Document Object Model",
+    "topic": "javascript"
+  },
+  {
+    "question": "Which function executes code after a delay?",
+    "options": [
+      "a) setTimeout()",
+      "b) setDelay()",
+      "c) timer()",
+      "d) wait()"
+    ],
+    "correct": "a) setTimeout()",
+    "topic": "javascript"
+  },
+  {
+    "question": "What will `typeof null` return?",
+    "options": [
+      "a) undefined",
+      "b) object",
+      "c) boolean",
+      "d) null"
+    ],
+    "correct": "b) object",
+    "topic": "javascript"
+  },
+  {
+    "question": "How do you define an anonymous function?",
+    "options": [
+      "a) func() =>",
+      "b) function name() {}",
+      "c) def () {}",
+      "d) () => {}"
+    ],
+    "correct": "d) () => {}",
+    "topic": "javascript"
+  },
+  {
+    "question": "Which loop checks condition after executing the block?",
+    "options": [
+      "a) while",
+      "b) for",
+      "c) do...while",
+      "d) if...else"
+    ],
+    "correct": "c) do...while",
+    "topic": "javascript"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "a) HyperText Markup Language",
+      "b) HyperTag Making Language",
+      "c) HyperTool Markup Language",
+      "d) HighText Markdown Language"
+    ],
+    "correct": "a) HyperText Markup Language",
+    "topic": "html"
+  },
+  {
+    "question": "Which tag inserts a line break?",
+    "options": [
+      "a) <lb>",
+      "b) <br>",
+      "c) <line>",
+      "d) <break>"
+    ],
+    "correct": "b) <br>",
+    "topic": "html"
+  },
+  {
+    "question": "Which attribute adds a link to an anchor tag?",
+    "options": [
+      "a) href",
+      "b) ref",
+      "c) link",
+      "d) src"
+    ],
+    "correct": "a) href",
+    "topic": "html"
+  },
+  {
+    "question": "Which tag defines a list item?",
+    "options": [
+      "a) <item>",
+      "b) <li>",
+      "c) <list>",
+      "d) <ul>"
+    ],
+    "correct": "b) <li>",
+    "topic": "html"
+  },
+  {
+    "question": "What tag is used for inserting an image?",
+    "options": [
+      "a) <img>",
+      "b) <image>",
+      "c) <pic>",
+      "d) <src>"
+    ],
+    "correct": "a) <img>",
+    "topic": "html"
+  },
+  {
+    "question": "Which tag defines the largest heading?",
+    "options": [
+      "a) <header>",
+      "b) <h6>",
+      "c) <h1>",
+      "d) <title>"
+    ],
+    "correct": "c) <h1>",
+    "topic": "html"
+  },
+  {
+    "question": "What is used to define a form field?",
+    "options": [
+      "a) <enter>",
+      "b) <form>",
+      "c) <field>",
+      "d) <input>"
+    ],
+    "correct": "d) <input>",
+    "topic": "html"
+  },
+  {
+    "question": "Which tag defines table rows?",
+    "options": [
+      "a) <table>",
+      "b) <td>",
+      "c) <tr>",
+      "d) <row>"
+    ],
+    "correct": "c) <tr>",
+    "topic": "html"
+  },
+  {
+    "question": "What tag is used for paragraphs?",
+    "options": [
+      "a) <p>",
+      "b) <para>",
+      "c) <pr>",
+      "d) <text>"
+    ],
+    "correct": "a) <p>",
+    "topic": "html"
+  },
+  {
+    "question": "Which attribute specifies alternate text for images?",
+    "options": [
+      "a) title",
+      "b) caption",
+      "c) desc",
+      "d) alt"
+    ],
+    "correct": "d) alt",
+    "topic": "html"
+  },
+  {
+    "question": "Which keyword is used to inherit a class in Java?",
+    "options": [
+      "a) implements",
+      "b) inherits",
+      "c) extends",
+      "d) super"
+    ],
+    "correct": "c) extends",
+    "topic": "java"
+  },
+  {
+    "question": "What is the entry point of a Java application?",
+    "options": [
+      "a) start method",
+      "b) init method",
+      "c) run method",
+      "d) main method"
+    ],
+    "correct": "d) main method",
+    "topic": "java"
+  },
+  {
+    "question": "Which keyword is used to define a constant?",
+    "options": [
+      "a) const",
+      "b) final",
+      "c) static",
+      "d) define"
+    ],
+    "correct": "b) final",
+    "topic": "java"
+  },
+  {
+    "question": "Which collection class does not allow duplicate elements?",
+    "options": [
+      "a) Map",
+      "b) Queue",
+      "c) Set",
+      "d) List"
+    ],
+    "correct": "c) Set",
+    "topic": "java"
+  },
+  {
+    "question": "What does JVM stand for?",
+    "options": [
+      "a) Java Variable Method",
+      "b) Java Visual Module",
+      "c) Java Version Manager",
+      "d) Java Virtual Machine"
+    ],
+    "correct": "d) Java Virtual Machine",
+    "topic": "java"
+  },
+  {
+    "question": "Which Java keyword prevents method overriding?",
+    "options": [
+      "a) private",
+      "b) const",
+      "c) final",
+      "d) static"
+    ],
+    "correct": "c) final",
+    "topic": "java"
+  },
+  {
+    "question": "Which access modifier makes a variable accessible within the same package?",
+    "options": [
+      "a) public",
+      "b) default",
+      "c) private",
+      "d) protected"
+    ],
+    "correct": "b) default",
+    "topic": "java"
+  },
+  {
+    "question": "Which operator is used to compare two values in Java?",
+    "options": [
+      "a) ==",
+      "b) =",
+      "c) !=",
+      "d) equals()"
+    ],
+    "correct": "a) ==",
+    "topic": "java"
+  },
+  {
+    "question": "What is used to handle exceptions in Java?",
+    "options": [
+      "a) catch-error",
+      "b) throw-catch",
+      "c) error-check",
+      "d) try-catch"
+    ],
+    "correct": "d) try-catch",
+    "topic": "java"
+  },
+  {
+    "question": "Which package is automatically imported in every Java program?",
+    "options": [
+      "a) java.io",
+      "b) java.net",
+      "c) java.util",
+      "d) java.lang"
+    ],
+    "correct": "d) java.lang",
+    "topic": "java"
+  },
+  {
+    "question": "Which keyword is used to remove all rows from a table?",
+    "options": [
+      "a) DROP",
+      "b) DELETE",
+      "c) REMOVE",
+      "d) CLEAR"
+    ],
+    "correct": "b) DELETE",
+    "topic": "sql"
+  },
+  {
+    "question": "Which command retrieves data from a table?",
+    "options": [
+      "a) SELECT",
+      "b) FETCH",
+      "c) SHOW",
+      "d) GET"
+    ],
+    "correct": "a) SELECT",
+    "topic": "sql"
+  },
+  {
+    "question": "What clause is used to filter query results?",
+    "options": [
+      "a) GROUP",
+      "b) FILTER",
+      "c) HAVING",
+      "d) WHERE"
+    ],
+    "correct": "d) WHERE",
+    "topic": "sql"
+  },
+  {
+    "question": "Which SQL function counts rows?",
+    "options": [
+      "a) LENGTH()",
+      "b) TOTAL()",
+      "c) SUM()",
+      "d) COUNT()"
+    ],
+    "correct": "d) COUNT()",
+    "topic": "sql"
+  },
+  {
+    "question": "What command is used to create a table?",
+    "options": [
+      "a) MAKE TABLE",
+      "b) NEW TABLE",
+      "c) INSERT TABLE",
+      "d) CREATE TABLE"
+    ],
+    "correct": "d) CREATE TABLE",
+    "topic": "sql"
+  },
+  {
+    "question": "Which constraint ensures a column cannot have NULL values?",
+    "options": [
+      "a) NOT NULL",
+      "b) UNIQUE",
+      "c) CHECK",
+      "d) PRIMARY"
+    ],
+    "correct": "a) NOT NULL",
+    "topic": "sql"
+  },
+  {
+    "question": "What does JOIN do in SQL?",
+    "options": [
+      "a) Combines rows from multiple tables",
+      "b) Deletes rows",
+      "c) Sorts data",
+      "d) Creates a table"
+    ],
+    "correct": "a) Combines rows from multiple tables",
+    "topic": "sql"
+  },
+  {
+    "question": "Which keyword is used to sort the result set?",
+    "options": [
+      "a) ARRANGE",
+      "b) SORT BY",
+      "c) GROUP BY",
+      "d) ORDER BY"
+    ],
+    "correct": "d) ORDER BY",
+    "topic": "sql"
+  },
+  {
+    "question": "What command updates existing records?",
+    "options": [
+      "a) UPDATE",
+      "b) REVISE",
+      "c) MODIFY",
+      "d) SET"
+    ],
+    "correct": "a) UPDATE",
+    "topic": "sql"
+  },
+  {
+    "question": "Which SQL keyword removes duplicate rows?",
+    "options": [
+      "a) UNIQUE",
+      "b) FILTER",
+      "c) DISTINCT",
+      "d) ONLY"
+    ],
+    "correct": "c) DISTINCT",
+    "topic": "sql"
+  },
+  {
+    "question": "Which symbol is used for single-line comments in C++?",
+    "options": [
+      "a) <!--",
+      "b) //",
+      "c) /*",
+      "d) #"
+    ],
+    "correct": "b) //",
+    "topic": "c++"
+  },
+  {
+    "question": "What is the extension of C++ source files?",
+    "options": [
+      "a) .cp",
+      "b) .cxx",
+      "c) .cpp",
+      "d) .cc"
+    ],
+    "correct": "c) .cpp",
+    "topic": "c++"
+  },
+  {
+    "question": "Which keyword is used to define a constant?",
+    "options": [
+      "a) define",
+      "b) constant",
+      "c) final",
+      "d) const"
+    ],
+    "correct": "d) const",
+    "topic": "c++"
+  },
+  {
+    "question": "Which header file is required for input/output?",
+    "options": [
+      "a) stdio.h",
+      "b) io.h",
+      "c) iostream",
+      "d) input.h"
+    ],
+    "correct": "c) iostream",
+    "topic": "c++"
+  },
+  {
+    "question": "What is the default return type of main()?",
+    "options": [
+      "a) float",
+      "b) char",
+      "c) void",
+      "d) int"
+    ],
+    "correct": "d) int",
+    "topic": "c++"
+  },
+  {
+    "question": "Which operator is used to access members of a structure?",
+    "options": [
+      "a) .",
+      "b) ::",
+      "c) ->*",
+      "d) ->"
+    ],
+    "correct": "a) .",
+    "topic": "c++"
+  },
+  {
+    "question": "Which keyword is used to define a class?",
+    "options": [
+      "a) struct",
+      "b) define",
+      "c) object",
+      "d) class"
+    ],
+    "correct": "d) class",
+    "topic": "c++"
+  },
+  {
+    "question": "Which loop ensures code runs at least once?",
+    "options": [
+      "a) for",
+      "b) do...while",
+      "c) if",
+      "d) while"
+    ],
+    "correct": "b) do...while",
+    "topic": "c++"
+  },
+  {
+    "question": "Which function is used to allocate memory dynamically?",
+    "options": [
+      "a) create",
+      "b) alloc",
+      "c) new",
+      "d) malloc"
+    ],
+    "correct": "c) new",
+    "topic": "c++"
+  },
+  {
+    "question": "Which operator is used to resolve the scope in C++?",
+    "options": [
+      "a) ->",
+      "b) .",
+      "c) :",
+      "d) ::"
+    ],
+    "correct": "d) ::",
+    "topic": "c++"
+  }
+]

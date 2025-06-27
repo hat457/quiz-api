@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does the 'cin' object in C++ do?",
+    "options": [
+      "Reads input from the console",
+      "Writes output to the console",
+      "Performs mathematical calculations",
+      "Creates a new file"
+    ],
+    "correct": "Reads input from the console"
+  },
+  {
+    "question": "Which keyword is used to define a class in C++?",
+    "options": [
+      "class",
+      "define",
+      "struct",
+      "object"
+    ],
+    "correct": "class"
+  },
+  {
+    "question": "What is the result of dividing an integer by 0 in C++?",
+    "options": [
+      "Compiler error",
+      "Infinite loop",
+      "Runtime error",
+      "Undefined behavior"
+    ],
+    "correct": "Undefined behavior"
+  },
+  {
+    "question": "What does the 'new' keyword do in C++?",
+    "options": [
+      "Deletes a variable",
+      "Allocates memory for a new variable",
+      "Returns the size of a variable",
+      "Calls a function"
+    ],
+    "correct": "Allocates memory for a new variable"
+  },
+  {
+    "question": "Which of the following is not a valid C++ data type?",
+    "options": [
+      "int",
+      "float",
+      "real",
+      "char"
+    ],
+    "correct": "real"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "testuser": {
+    "correct_count": 0,
+    "total_correct": 0,
+    "characters": []
+  },
+  "jon": {
+    "correct_count": 3,
+    "characters": [
+      "Python",
+      "Java",
+      "C++",
+      "SQL",
+      "HTML"
+    ],
+    "total_correct": 0
+  }
+}

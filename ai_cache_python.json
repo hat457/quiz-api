@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does Python stand for?",
+    "options": [
+      "Python as a type of snake",
+      "Python as a programming language",
+      "Python as a type of fruit",
+      "Python as a brand of clothing"
+    ],
+    "correct": "Python as a programming language"
+  },
+  {
+    "question": "Who created Python?",
+    "options": [
+      "Steve Jobs",
+      "Guido van Rossum",
+      "Bill Gates",
+      "Mark Zuckerberg"
+    ],
+    "correct": "Guido van Rossum"
+  },
+  {
+    "question": "What year was Python first released?",
+    "options": [
+      "1990",
+      "1994",
+      "2000",
+      "2004"
+    ],
+    "correct": "1994"
+  },
+  {
+    "question": "What version of Python is the most popular?",
+    "options": [
+      "Python 2.7",
+      "Python 3.6",
+      "Python 3.9",
+      "Python 4.0"
+    ],
+    "correct": "Python 3.6"
+  },
+  {
+    "question": "What is the main use of the 'if' statement in Python?",
+    "options": [
+      "To perform mathematical calculations",
+      "To control the flow of a program",
+      "To create a list",
+      "To display text on the screen"
+    ],
+    "correct": "To control the flow of a program"
+  }
+]
