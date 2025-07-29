@@ -139,7 +139,7 @@
       "It concatenates all elements in a list",
       "It reverses a given list"
     ],
-    "correct": "B) It removes all the false values from an iterable",
+    "correct": "It removes all the false values from an iterable",
     "topic": "python"
   },
   {
@@ -261,17 +261,6 @@
       "list"
     ],
     "correct": "dictionary",
-    "topic": "python"
-  },
-  {
-    "question": "Which keyword is used to define a function?",
-    "options": [
-      "def",
-      "func",
-      "define",
-      "method"
-    ],
-    "correct": "def",
     "topic": "python"
   },
   {
